@@ -1,0 +1,21 @@
+{
+  "name": "react.helloworld.com",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jluismm2311/first-react",
+  "authors": [
+    "jorge moreno <youfhater@gmail.com>"
+  ],
+  "description": "first app with react",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libraries",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5"
+  }
+}
